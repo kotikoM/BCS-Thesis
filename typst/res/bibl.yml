@@ -1,0 +1,31 @@
+sysarch:
+  type: Book
+  title: 'System Architecture: An Ordinary Engineering Discipline'
+  author:
+    - Wolfgang J. Paul
+    - Christoph Baumann Petro
+    - Lutsyk Sabine Schmaltz
+  date: 2016-10-04
+
+compthesis:
+  type: Thesis
+  title: 'Compiler Development for LR(1) Grammars: DK1 Test, Parsing, and Code Generation with Application to the C0 Language'
+  link: 
+  author:
+    - Toma Pirtskhelani 
+    - Irakli Khotchava
+
+mars:
+  type: Thesis
+  title: "MARS: MIPS Assembler and Runtime Simulator"
+  link: https://computerscience.missouristate.edu/mars-mips-simulator.html
+  author:
+    - Kenneth Vollmar
+    - Pete Sanderson
+
+sipser:
+  type: Book
+  title: 'Introduction to the Theory of Computation, 3rd ed.'
+  link: 
+  author: 
+    - Michael Sipser 
